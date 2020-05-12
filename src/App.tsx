@@ -4,6 +4,7 @@ import BlockExplorer from "./components/BlockExplorer";
 import SideBar from "./components/SideBar";
 import TopBar from "./components/TopBar";
 
+
 export default function App() {
   return (
     <div className="App">
